@@ -1,36 +1,49 @@
-<h2 align=center>🖥⌨️Tech STACKS</h2>
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+## 👨‍💻 About
+- 🙃 저는 백엔드 개발자를 하고 있습니다.
+- 🖥 저는 인프라를 다룰 줄 아는 백엔드 개발자가 되고 싶습니다.
+- 🔥 현재는 주로 Spring Boot을 사용하여 많은 사람들과 협업을 경험해왔습니다.
+- 😆 모두와 함께 즐기면서 개발하고 싶습니다.(도움을 주고 도움을 받는)
+- 💬 이메일: sjkyomg@gmail.com
+
+## Career
+- 인덕대학교 컴퓨터전자공학과 (2014.03 ~ 2019.02 ) 
+- (주)페이네스트 백엔드 개발자(2022.05 ~)
+## Experience
+- 원티드 프리온보딩 백엔드 챌린지 참여
+- 점핏 개취콘 백엔드 참여
+
+## Project
+- Payment Gateway(PG) admin(관리자,가맹점) 개발(2022.05 ~ )
+- 페이네스트 브랜드 홈페이지 구축(2022.06 ~ 2022.07)
+  (https://www.nestpay.co.kr)
+- Payment Gateway(PG) 오프라인 결제(API) 연동(2022.09 ~ 2022.11)
+- 배달 대행 결제 및 정산 서비스(페이네스트 딜리버리) (2023.05 ~ 2023.07)
+  (https://deli.nestpay.co.kr)
+- 가맹점 정산 배치 서비스 구축(2023.03 ~ 2023.05)
+
+
+## 🖥⌨️Tech Stacks
+
+  ### Languages
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
-  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=spring Boot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+    
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  ### Libraries & Frameworks
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+
+  ### CI/CD
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 
   <br>
   
-  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
+  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <br>
-</div>
+
 
 
 
