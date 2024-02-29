@@ -15,7 +15,7 @@
 
 ## Project
  - Cgv 홈페이지 클론코딩(2022.02 ~ 2022.04)
- - Payment Gateway(PG) admin(관리자,가맹점) 개발(2022.05 ~ )
+ - Payment Gateway(PG) 백오피스(관리자,가맹점) 개발(2022.05 ~ )
  - 페이네스트 브랜드 홈페이지 구축(2022.06 ~ 2022.07)
   (https://twww.nestpay.co.kr)
  - Payment Gateway(PG) 오프라인 결제(API) 연동(2022.09 ~ 2022.11)
