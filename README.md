@@ -8,18 +8,18 @@
 ## Project
  - Cgv 홈페이지 클론코딩(2022.02 ~ 2022.04)
  - Payment Gateway(PG) 백오피스(관리자,가맹점) 개발(2022.05 ~ )
-  (https://office.nestpay.co.kr)
+  [🔗](https://office.nestpay.co.kr)
  - 페이네스트 브랜드 홈페이지 구축(2022.06 ~ 2022.07)
-  (https://twww.nestpay.co.kr)
+  [🔗](https://twww.nestpay.co.kr)
  - Payment Gateway(PG) 오프라인 결제(API) 구축(2022.09 ~ 2022.11)
  - 선불카드 고객 API 연동(2022.12 ~ 2023.02)
  - 가맹점 정산 배치 서비스 구축(2023.03 ~ 2023.05)
  - 배달 대행 결제 및 정산 서비스(페이네스트 딜리버리) (2023.05 ~ 2023.07)
-  (https://deli.nestpay.co.kr)
+  [🔗](https://deli.nestpay.co.kr)
  - 뽀모도로 작업 관리/시간관리 타이머(사이드 프로젝트) Pomodoro devOps(2023.11 ~ 2024.01) 
  - 가맹점 지급 배치 서비스 펌뱅킹 구축(2024.01 ~ 2024.02)
  - Ai 기반 취뽀 서비스 ’잡터뷰이(JOBTERVIEWee)’ 사이드 프로젝트 BACKEND (2024.03)
-  (https://api.jobterviewee.site/swagger-ui/index.html)
+  [🔗](https://api.jobterviewee.site/swagger-ui/index.html)
 
 
 ## 🖥⌨️Tech Stacks
