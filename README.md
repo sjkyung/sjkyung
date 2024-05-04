@@ -18,7 +18,7 @@
   [🔗](https://deli.nestpay.co.kr)
  - 뽀모도로 작업 관리/시간관리 타이머(사이드 프로젝트) Pomodoro devOps(2023.11 ~ 2024.01) 
  - 가맹점 지급 배치 서비스 펌뱅킹 구축(2024.01 ~ 2024.02)
- - Ai 기반 취뽀 서비스 ’잡터뷰이(JOBTERVIEWee)’ 사이드 프로젝트 BACKEND (2024.03)
+ - Ai 기반 취뽀 서비스 ’잡터뷰이(JOBTERVIEWee)’ 비사이드 프로젝트 BACKEND (2024.03)
   [🔗](https://api.jobterviewee.site/swagger-ui/index.html)
 
 
