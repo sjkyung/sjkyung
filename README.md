@@ -20,6 +20,7 @@
  - 가맹점 지급 배치 서비스 펌뱅킹 구축(2024.01 ~ 2024.02)
  - Ai 기반 취뽀 서비스 ’잡터뷰이(JOBTERVIEWee)’ 비사이드 프로젝트 BACKEND (2024.03)
   [🔗](https://api.jobterviewee.site/swagger-ui/index.html)
+ - KB 매일입금(선정산) 서비스 API 구축(2024.07 ~)
 
 
 ## 🖥⌨️Tech Stacks
