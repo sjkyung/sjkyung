@@ -1,7 +1,4 @@
 ## About
- 저는 Payment Gateway(PG) 관련 백엔드 개발자를 하고 있습니다.<br>
- 저는 인프라를 다룰 줄 아는 백엔드 개발자가 되고 싶습니다.<br>
- 현재는 주로 Spring Boot을 사용하여 많은 사람들과 협업을 경험해왔습니다.<br>
  모두와 함께 즐기면서 개발하고 싶습니다.(도움을 주고 도움을 받는)<br>
  email: sjkyomg@gmail.com
 
