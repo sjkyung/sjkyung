@@ -1,6 +1,6 @@
 ## About
  모두와 함께 즐기면서 개발하고 싶습니다.(도움을 주고 도움을 받는)<br>
- email: sjkyomg@gmail.com
+ Email: sjkyomg@gmail.com
 
 ## Stacks
   ### Backend
